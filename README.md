@@ -1,4 +1,3 @@
-# Hi, I'm Rendi Alfian👋
 
 ## 🛠️ Tech Stack
 
